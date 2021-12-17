@@ -5,6 +5,7 @@ This project presents the implementation of maximum power point tracking using t
 ![Simulink Model](https://user-images.githubusercontent.com/59218648/146582158-09bee637-a984-4dcb-a27b-f48be9214f51.png)
 
 # Result
+## Case1:
 
 
 
